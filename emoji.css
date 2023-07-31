@@ -1,0 +1,23 @@
+body{
+    
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS32N8Fei53eNBcxB1z3tl-afnkqvAjy6ImsAUKAr3t&s);
+}
+.container{
+    
+    width:700px;
+    height:500px;
+    border-radius: 5px;
+    border:3px solid black; 
+    background-image: url(https://img.pikbest.com/back_our/bg/20200930/bg/df1ebe54572b3_400721.jpg!w700wp);
+    margin:auto;
+    margin-top: 10%;
+}
+h1{
+    margin-top: 30%;
+    color: black;
+    font-style:oblique ;
+}
+input{
+    margin-top: 20px;
+    border:5px solid black;
+}
